@@ -28,7 +28,7 @@ PennyLedger is a full-stack expense tracking application that allows users to re
 
 You can use the following demo account to explore the application:
 
-- **Email:** demo.user@gmail.com  
+- **Email:** test123@gmail.com  
 - **Password:** 12341234  
 
 ⚠️ Note:
